@@ -27,10 +27,9 @@ Para jogar, você precisa ter o Python instalado em seu computador. Nenhuma bibl
 
 ## Conclusões
 
-Este projeto não apenas oferece uma maneira divertida de passar o tempo, mas também ajuda a melhorar o raciocínio lógico e habilidades de programação. É ideal para iniciantes que desejam praticar Python de uma maneira mais lúdica e envolvente.
+Este projeto não apenas oferece uma maneira divertida de passar o tempo, mas também ajuda a melhorar o raciocínio lógico e habilidades de programação. É ideal para iniciantes que desejam praticar Python de uma maneira mais lúdica e envolvente. Ele nos lembra que a aprendizagem pode ser divertida e envolvente, abrindo novos caminhos para o desenvolvimento pessoal e profissional.
+
 
 ### Reflexão:
 
 >"A simplicidade é a sofisticação final." - Leonardo da Vinci
->
->Este projeto reforça o valor da simplicidade e como, muitas vezes, soluções simples podem proporcionar grande valor e diversão. Ele nos lembra que a aprendizagem pode ser divertida e envolvente, abrindo novos caminhos para o desenvolvimento pessoal e profissional.
